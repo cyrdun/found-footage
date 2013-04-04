@@ -1,27 +1,33 @@
-<<<<<<< HEAD
-found-footage
-=============
-# 1
-## scene nuit
-=======
-################################################
-# 12
-## scène d'arrivée à la maison
-## INT NUIT, garage de la maison
+Title:  A New MultiMarkdown Document  
+Author: Fletcher T. Penney  
+        John Doe  
+Date:   July 25, 2005
 
-	Leo (riant à gorge déployée)
-	Je suis vraiment fatigué ce matin
+---
+
+* super
+* liste
+	* au 
+	* cas ou
+
+---
+
+Partie A
+========
+description
+--------
+
+> je dis que voila
+> mais tu réponds que
+
+> et puis moi je suis  
+> passage a la ligne ok
+
+	un code preformata donne
+	ca
+	et ca
 	
-	Leo (respire 4sec et s'assied)
-	Pardon, je me calme
-	
-	Laurence
-	Je vais me coucher
-	
-################################################
+---
 
-# 1
-
-
-# 2
->>>>>>> test MD
+# Partie B
+## 2e descripot
