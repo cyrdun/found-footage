@@ -33,4 +33,4 @@ description
 ---
 
 # Partie B
-## 2e descripot
+## 2e description
